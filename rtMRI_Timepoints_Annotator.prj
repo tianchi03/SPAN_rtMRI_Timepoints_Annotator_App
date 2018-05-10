@@ -1,0 +1,61 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2080226747" file="/home/tsorense/rtmri_app/rtMRI_Timepoints_Annotator.prj" location="/home/tsorense/rtmri_app" name="rtMRI_Timepoints_Annotator" target="target.mlapps" target-name="Package App">
+    <param.appname>rtMRI_Timepoints_Annotator</param.appname>
+    <param.authnamewatermark>Tanner Sorensen</param.authnamewatermark>
+    <param.email>tsorense@usc.edu</param.email>
+    <param.company>University of Southern California</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>MATLAB application for annotating real-time MRI videos</param.summary>
+    <param.description />
+    <param.screenshot />
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>/home/tsorense/rtmri_app</param.output>
+    <param.guid>d2eb736a-d443-44e8-b44f-bc23d640f679</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.screenshot />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/rtMRI_Timepoints_Annotator.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/home/tsorense" name="rtmri_app" optional="false">/home/tsorense/rtmri_app</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/usr/local/MATLAB/R2018a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>false</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>true</linux>
+      <solaris>false</solaris>
+      <osver>4.4.0-124-generic</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>glnxa64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
