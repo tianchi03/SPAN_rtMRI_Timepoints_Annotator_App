@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2080226747" file="/home/tsorense/rtmri_app/rtMRI_Timepoints_Annotator.prj" location="/home/tsorense/rtmri_app" name="rtMRI_Timepoints_Annotator" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2709138294" file="/home/tsorense/rtmri_app/rtMRI_Timepoints_Annotator.prj" location="/home/tsorense/rtmri_app" name="rtMRI_Timepoints_Annotator" target="target.mlapps" target-name="Package App">
     <param.appname>rtMRI_Timepoints_Annotator</param.appname>
     <param.authnamewatermark>Tanner Sorensen</param.authnamewatermark>
     <param.email>tsorense@usc.edu</param.email>
